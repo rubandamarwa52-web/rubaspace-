@@ -1,0 +1,10 @@
+{
+  "name": "rubaspace-real",
+  "version": "2.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "ws": "^8.13.0"
+  }
+}
